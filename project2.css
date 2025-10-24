@@ -1,0 +1,266 @@
+ #container{
+
+    border: 2px solid black;
+    width: 990px;
+    height: 6690px;
+    background-color: black;
+    margin-left: 250px;
+}
+h1{
+    color: white;
+    padding-left: 15px;
+}
+#card{
+
+    width: 100%;
+    background-color: black; 
+}
+/* -----------------------------------------BUTTONS-------------------------- */
+ .buttons{
+    margin-top: 1px;
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    border-radius: 15px;
+ }
+ .a:hover{
+  background-color: rgba(222, 222, 233, 0.615);
+ }
+   #icon{
+    color: white;
+      font-size: 17px;
+      margin-right: -29px;
+      margin-left: 50px;
+
+   }
+ .a{
+    border-radius: 15px;
+    width: 120px;
+    height: 40px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 25px;
+    text-align: center;
+    font-size: larger;
+ }
+ .order{
+    margin-top: 15px;
+    height: 30px;
+    width: 990px;
+    border-radius: 10px;
+    font-size: larger;
+ }
+ /* ----------------------------------------------REVIEW------------------------------- */
+ .box1{
+    
+    height: 65px ;
+    background-color: rgba(37, 30, 30, 0.61);
+ }
+ .p1{
+      margin-top: 1px;
+      color: wheat;
+      padding: 5px;
+      /* padding-left: 450px; */
+      font-size: 50px;
+
+ }
+  .opara{
+    height: 700px;
+    width: 98%;
+    background-color: black;
+    margin-top: 5px;
+    color: white;
+    padding-top: 15px;
+    padding-left: 20px;
+ }
+ #pen{
+  font-size: 40px;
+ }
+ #star{
+  color: gold;
+  font-size: 25px;
+ }
+  
+  .rbutton{
+    border-radius: 10px;
+    height: 40px;
+    width: 370px;
+    margin-left:270px ;
+    margin-top: 5px;
+    font-size: larger;
+  }
+  /* -----------------------------------------------MENU------------------------------------- */
+  .menu{
+    height: 2300px;
+    width: 100%;
+    background-color: black;
+    
+  }
+  .hmenu{
+    color: wheat;
+    padding-left: 380px;
+    padding-top: 15px;
+    font-size: 40px;
+  }
+  .mcard{
+    padding-top: 10px;
+    height:350px;
+    width: 20ppx;
+    background-color: black;
+  }
+  .mcard1{
+    padding-top: 25px;
+    padding-left: 18px;
+    height: 310px;
+    background-color: rgb(30, 33, 33);
+    width: 292px;
+    margin-left: 15px;
+    float: left;
+  }
+  .mcard1:hover{
+    background-color: rgb(50, 47, 47);
+  }
+  .mp{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: white;
+  }
+  .m2card{
+    margin-top: 5px;
+     padding-top: 10px;
+    height:300px;
+    width: 990px;
+    background-color: black;
+  }
+  .mcard2{
+    padding-top: 10px;
+    padding-left: 18px;
+    height: 280px;
+    background-color: rgb(30, 33, 33);
+    width: 250px;
+    margin-left: 15px;
+    float: left;
+    margin-right: 45px;
+  
+  }
+  .mcard2:hover{
+    background-color: rgb(50, 47, 47); 
+  }
+  .m3card{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    height:480px;
+    width: 990px;
+    background-color: black;
+    margin-top: 4px;
+  }
+  .mcard3{
+    padding-top: 10px;
+    padding-left: 18px;
+    height: 470px;
+    background-color:rgb(30, 33, 33);
+    width: 250px;
+    margin-left: 15px;
+    float: left;
+    margin-right: 45px;
+  }
+  .mcard3:hover{
+    background-color: rgb(50, 47, 47);
+  }
+  .m4card{
+     margin-top: 5px;
+     padding-top: 10px;
+     padding-bottom: 15px;
+    height:240px;
+    width: 990px;
+    background-color: black;
+  }
+  .mcard4{
+    padding-top: 10px;
+    padding-left: 18px;
+    height: 210px;
+    background-color: rgb(30, 33, 33);
+    width: 250px;
+    margin-left: 15px;
+    float: left;
+    margin-right: 45px;
+  }
+  .mcard4:hover{
+    background-color: rgb(50, 47, 47);
+  }
+ /* ------------------------------------------------------CARD END-------------------------------- */
+  .cafe{
+    color: aliceblue;
+    border: 2px solid black;
+    height: 720px;
+    width: 990px;
+    background-color: black;
+  }
+  h2{
+    padding-left: 12px;
+    color: rgb(0, 166, 255);
+  }
+  .fa-instagram{
+    color:rgb(216, 112, 176);
+    font-size: 50px;
+  }
+  .fa-linkedin{
+    color: rgb(27, 27, 244);
+    font-size: 50px;
+
+  }
+  .fa-facebook{
+    color: blue;
+    font-size: 50px;
+    
+  }
+
+  .in{
+    width: 90px;
+    background-color:black(31, 8, 8, 0.852);
+    padding-left: 30px;
+    float: left;
+  
+  }
+  .inl{
+    height: 80px;
+    width: 90px;
+    background-color:black(210, 56, 56);
+    padding-left: 30px;
+    float: left;
+  }
+  /* ---------------------------------------CONTACT---------------------------------- */
+  .box2{
+    height: 350px;
+    width: 990px;
+    background-color: black;
+    padding-left: 7px;
+  }
+  .hbox2{
+   color: white;
+  }
+  .bbox2{
+    height: 35px;
+    width: 90px;
+    font-size: larger;
+    border-radius: 7px;
+  }
+  /* ------------------------------------------------MORE CAFE--------------------------------- */
+  .mcafe{
+    height: 200px;
+    width: 980px;
+    background-color: rgb(32, 34, 34);
+    padding-left: 7px;
+  }
+  .img{
+   float: right;
+   margin-top: -165px;
+   margin-right: 50px;
+   font-size: 100px;
+  }
+  .t{
+    color: aliceblue;
+    font-size: 100px;
+    padding-left: 106px;
+    padding-top: 15px;
+  }
